@@ -30,6 +30,6 @@ function scanDir(baseDir, baseName) {
     });
 }
 
-scanDir(cases_dir, "Case");
+scanDir(cases_dir, "Checker");
 
 scanDir(cases_dir + "../../../transpiler/cases", "Transpiler");
