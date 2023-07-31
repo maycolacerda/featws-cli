@@ -1,7 +1,0 @@
-[myfeat]
-condition = $myothernumber > 10
-value = $mynumber + 12
-
-[myfeat2]
-condition = #myfeat > 7
-value =  $myothernumber >= #myfeat

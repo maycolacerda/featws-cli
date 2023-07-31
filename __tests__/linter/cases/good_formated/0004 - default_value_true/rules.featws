@@ -1,2 +1,0 @@
-female = $gender == "F";
-male = !#female;

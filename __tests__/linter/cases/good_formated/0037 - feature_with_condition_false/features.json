@@ -1,8 +1,0 @@
-[
-    {
-        "name": "myfeat",
-        "type": "integer",
-        "expires": "1h",
-        "fallback": false
-    }
-]
