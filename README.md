@@ -1,4 +1,4 @@
-# **Featws CLI**
+# **FeatWS CLI**
 
 A tool to check the FeatWS's files and transpile to [GRL format](https://github.com/hyperjumptech/grule-rule-engine/blob/master/docs/en/GRL_en.md). 
 
