@@ -1,4 +1,0 @@
-occupation_group = @simple_group
-[target_client]
-condition = $your_occupation == simple_group_0
-value = "approved"

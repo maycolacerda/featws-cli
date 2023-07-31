@@ -1,7 +1,7 @@
 {
-  "name": "featws-transpiler",
-  "version": "0.7.4-rc1",
-  "description": "A FeatWS Transpiler to GRL",
+  "name": "featws-cli",
+  "version": "0.0.1-rc1",
+  "description": "A FeatWS CLI to GRL",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon -w ./ -e js,json,feat index.js",
@@ -9,24 +9,24 @@
     "test": "jest"
   },
   "bin": {
-    "featws-transpiler": "bin/featws-transpiler.js",
-    "featws-linter": "bin/featws-linter.js"
+    "featws-cli": "bin/featws-cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bancodobrasil/featws-compiler.git"
+    "url": "git+https://github.com/bancodobrasil/featws-cli.git"
   },
   "author": "Raphael Pinto",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/bancodobrasil/featws-compiler/issues"
+    "url": "https://github.com/bancodobrasil/featws-cli/issues"
   },
-  "homepage": "https://github.com/bancodobrasil/featws-compiler#readme",
+  "homepage": "https://github.com/bancodobrasil/featws-cli#readme",
   "devDependencies": {
     "jest": "^27.4.7",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "commander": "^11.0.0",
     "ejs": "^3.1.7",
     "js-featws": "^1.1.0-rc1"
   }

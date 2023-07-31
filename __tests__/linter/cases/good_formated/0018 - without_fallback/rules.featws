@@ -1,2 +1,0 @@
-tall = $height >= 180
-short = !#tall

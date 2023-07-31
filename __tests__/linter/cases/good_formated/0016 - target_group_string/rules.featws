@@ -1,4 +1,0 @@
-male = $sex == "M"
-female = !#male
-southern_male = #male && @south_brazil
-southern_female = !#southern_male::boolean

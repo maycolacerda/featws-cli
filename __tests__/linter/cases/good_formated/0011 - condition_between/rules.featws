@@ -1,2 +1,0 @@
-low_speed = $speed > 0 && $speed < 40
-high_speed = !#low_speed

@@ -1,2 +1,0 @@
-maior_de_idade = !#menor_de_idade
-menor_de_idade = $idade <= 18
