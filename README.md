@@ -1,6 +1,6 @@
-# **Featws Transpiler**
+# **FeatWS CLI**
 
-A tool to transpile the FeatWS's files to [GRL format](https://github.com/hyperjumptech/grule-rule-engine/blob/master/docs/en/GRL_en.md). 
+A tool to check the FeatWS's files and transpile to [GRL format](https://github.com/hyperjumptech/grule-rule-engine/blob/master/docs/en/GRL_en.md). 
 
 ## Required Softwares
 - node.js version 10 or higher.  
