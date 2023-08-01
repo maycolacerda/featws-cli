@@ -1,0 +1,10 @@
+[
+    {
+        "name": "mystr",
+        "type": "string"
+    },
+    {
+        "name": "myint",
+        "type": "integer"
+    }
+]
