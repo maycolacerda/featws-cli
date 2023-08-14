@@ -1,1 +1,1 @@
-number-type: parameter 'mystr' isn't an 'integer' or 'decimal'!
+equals-type: variables '12' and '$mystr' aren't the same type!
